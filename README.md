@@ -5,7 +5,7 @@ A web-based local clothing swap intended to connect people with clothes and comb
 
 ## **Project Title:** Madison Clothing Swap
 ### **Project Description:** A web-based local clothing swap intended to connect people with clothes and combat fast fashion in Madison, Wi.
-Wireframe Link
+[Wireframe Link](https://balsamiq.cloud/spvylua/p9ev1ek)
 
 **Features List:**
 *  Use of Django templating engine
