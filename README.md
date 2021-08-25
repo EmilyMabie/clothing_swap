@@ -14,6 +14,8 @@ A web-based local clothing swap intended to connect people with clothes and comb
 *  Application includes protected route (user must be in session to view)
 *  Application features static content (CSS, images, JS)
 *  Created data must be validated (events cannot be in the past, clothing swaps must be within the bounds of the City of Madison)
+*  Map API
+*  Email generation using SendGrid's SMTP relay
  
 **Additional Notes:**
 I wanted to experiment with sending emails via Django. There are many different ways to achieve this, though one hurdle was that Django’s built-in email processes default to a single “from” email address. Instead, I imported and implemented SendGrid, and used their SMTP relay (modified my app’s SMTP configuration). 
