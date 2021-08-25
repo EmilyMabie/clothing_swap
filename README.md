@@ -3,8 +3,8 @@ A web-based local clothing swap intended to connect people with clothes and comb
 
 ![alt text](https://github.com/EmilyMabie/clothing_swap/blob/main/Screen%20Shot%202021-08-25%20at%201.13.27%20PM.png)
 
-**Project Title:** Madison Clothing Swap
-**Project Description:** A web-based local clothing swap intended to connect people with clothes and combat fast fashion in Madison, Wi.
+## **Project Title:** Madison Clothing Swap
+### **Project Description:** A web-based local clothing swap intended to connect people with clothes and combat fast fashion in Madison, Wi.
 Wireframe Link
 
 **Features List:**
