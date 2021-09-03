@@ -19,7 +19,7 @@ A web-based local clothing swap intended to connect people with clothes and comb
  
 **Additional Notes:**
 I wanted to experiment with sending emails via Django. There are many different ways to achieve this, though one hurdle was that Django’s built-in email processes default to a single “from” email address. Instead, I imported and implemented SendGrid, and used their SMTP relay (modified my app’s SMTP configuration). 
-I then had to disable this, SendGrid is not secure with free email accounts (such as gmail)
+I then had to disable this, as SendGrid is not secure with free email accounts (such as gmail).
 
 I also wanted to implement a form, since I hadn’t gotten to practice much with them during the Python stack. I used the form to gather the data for constructing clothing swap emails
 
